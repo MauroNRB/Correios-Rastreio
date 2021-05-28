@@ -270,7 +270,7 @@ function createHTML()
 
             <div class="row">
                 <div class="col-xl-6 float-left">
-                    <img width="201" src="https://correiosrastrear.com/imagens/correioslogo.png">
+                    <img src="correioslogo.png">
                 </div>
 
                 <div class="col-xl-6 float-right">
