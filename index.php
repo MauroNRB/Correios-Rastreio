@@ -128,6 +128,10 @@ function createHTML()
 
 <html>
     <head>
+        <title>Rastreio Encomenda</title>
+        <meta charset="utf-8">
+        <link rel="icon" type="image/x-icon" href="maps.ico">
+        <meta name="description" content="Rastreamento simplificado de encomendas nacionais e internacionais. Rastreio simples, rápido e 100% grátis. Acompanhe suas entregas online e simplificado.">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
@@ -227,7 +231,7 @@ function createHTML()
                 -webkit-transition: 0.4s;
                 transition: 0.4s;
                 box-shadow: 0 0px 15px #2020203d;
-                background: white url('https://i.pinimg.com/originals/8d/af/9e/8daf9e1d3bb76d1e164c4d795dc82b64.png');
+                background: white url('sol.png');
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: 24px 24px;
@@ -245,7 +249,7 @@ function createHTML()
                 -webkit-transform: translateX(24px);
                 -ms-transform: translateX(24px);
                 transform: translateX(24px);
-                background: white url('https://img.icons8.com/ios/452/crescent-moon.png');
+                background: white url('lua.png');
                 background-repeat: no-repeat;
                 background-position: center;
                 background-size: 24px 24px;
