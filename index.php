@@ -16,7 +16,7 @@ function getTracking()
         curl_setopt($ch, CURLOPT_URL, "https://www2.correios.com.br/sistemas/rastreamento/resultado_semcontent.cfm");
         curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
         curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($post));
-        curl_setopt($ch, CURLOPT_TIMEOUT_MS, 2500);
+        curl_setopt($ch, CURLOPT_TIMEOUT_MS, 5000);
         $output = curl_exec($ch);
         curl_close($ch);
         $out = explode("table class=\"listEvent sro\">", $output);
