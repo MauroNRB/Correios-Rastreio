@@ -15,7 +15,7 @@
 
             <div class="row">
                 <div class="col-xl-6 float-left">
-                    <img src="correioslogo.png">
+                    <img src="img/correioslogo.png">
                 </div>
 
                 <div class="col-xl-6 float-right">
