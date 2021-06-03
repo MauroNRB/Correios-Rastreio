@@ -1,6 +1,7 @@
 <html>
     <head>
-        <title>Rastreio Encomenda</title>
+        <script data-ad-client="ca-pub-9651920488791894" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <title>Rastreio Tudo</title>
         <meta charset="utf-8">
         <link rel="icon" type="image/x-icon" href="img/maps.ico">
         <meta name="description" content="Rastreamento simplificado de encomendas nacionais e internacionais. Rastreio simples, rápido e 100% grátis. Acompanhe suas entregas online e simplificado.">
